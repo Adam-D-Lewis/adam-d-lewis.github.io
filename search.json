@@ -1,0 +1,23 @@
+[
+
+{
+"category": "Spatialpandas, Spatial Filtering, Dask, Pandas",
+"title": "Spatial Filtering at Scale with Dask and Spatialpandas",
+"description": "Photo Credit: NASA Earth Observatory images by Joshua Stevens, using Suomi NP...",
+"url": "/blog/spatial-filtering/",
+"image": "/assets/images/spatial_filter_post/us_at_night.jpg",
+"author": "Adam Lewis"
+}
+,
+
+{
+"category": "open-source",
+"title": "Getting Started in Open Source: Lessons learned from a first-time open source contributor",
+"description": "This article is cross-published on Medium.Being relatively new to the process...",
+"url": "/blog/getting-started-in-os/",
+"image": "/assets/images/computer.jpg",
+"author": "Adam Lewis"
+}
+
+
+]
