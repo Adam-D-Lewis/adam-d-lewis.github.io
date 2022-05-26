@@ -1,0 +1,2 @@
+# ad exchange, publisher/account id, relationship type, Certification Authority (TAG)
+google.com, pub-8567402715447986, DIRECT, f08c47fec0942fa0
