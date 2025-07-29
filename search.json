@@ -11,12 +11,52 @@
 ,
 
 {
+"category": "",
+"title": "ContainDS Dashboards Integration",
+"description": "The image above is of the Dash Web Trader dashboard.  Dashboards like the one...",
+"url": "/blog/cdsdashboard-qhub-onprem/",
+"image": "/assets/images/cdsdashboards/dash-web-trader-rectangle.png",
+"author": ""
+}
+,
+
+{
+"category": "",
+"title": "Personal Financial Data Scraping with Prefect (Writeup Coming Soon)",
+"description": "I recently set up regularly scheduled scraping of Personal Data via Selenium ...",
+"url": "/blog/data-scraping-pipelines/",
+"image": "/assets/images/finscrape/prefect-dashboard.png",
+"author": ""
+}
+,
+
+{
+"category": "",
+"title": "Add Azure Support for Open Source Data Science Platform (Writeup Coming Soon)",
+"description": "Qhub Cloud is an scalable, open source data science platform created by my co...",
+"url": "/blog/qhub-cloud-azure/",
+"image": "/assets/images/azure-qhub.png",
+"author": ""
+}
+,
+
+{
 "category": "Spatialpandas, Spatial Filtering, Dask, Pandas",
 "title": "Spatial Filtering at Scale with Dask and Spatialpandas",
 "description": "Photo Credit: NASA Earth Observatory images by Joshua Stevens, using Suomi NP...",
 "url": "/blog/spatial-filtering/",
 "image": "/assets/images/spatial_filter_post/us_at_night.jpg",
 "author": "Adam Lewis"
+}
+,
+
+{
+"category": "",
+"title": "Mortgage Calculator App & Panel Tutorial (Live Deployment)",
+"description": "Mortgage CalculatorRecently, my wife and I were looking at mortgages in prepa...",
+"url": "/blog/mortgage-calc-app/",
+"image": "/assets/images/mortgage_calculator/mortgage_calculator_plot3.png",
+"author": ""
 }
 ,
 
