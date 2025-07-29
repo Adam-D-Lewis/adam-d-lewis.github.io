@@ -1,6 +1,6 @@
 # Adam Lewis Portfolio Website
 
-A Jekyll-based portfolio website showcasing recent projects and articles.
+A Jekyll-based portfolio website showcasing recent projects and posts.
 
 **Live Site**: [https://adam-d-lewis.github.io/](https://adam-d-lewis.github.io/)
 
@@ -168,7 +168,7 @@ JEKYLL_ENV=production bundle exec jekyll build
 ### Post Categories
 Posts automatically appear in:
 - **Recent Posts**: Latest 3 posts on homepage
-- **All Articles**: Complete list in sidebar
+- **All Posts**: Complete list in sidebar
 - **Blog Page**: Paginated list at `/blog/`
 
 ## Deployment Architecture
