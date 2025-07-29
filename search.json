@@ -1,6 +1,16 @@
 [
 
 {
+"category": "open-source",
+"title": "My Take on DeepLearning.AI's Post-Training of LLMs Course",
+"description": "So I just finished DeepLearning.AI’s Post-Training of LLMs course, and honest...",
+"url": "/blog/post-training-llms/",
+"image": "",
+"author": "Adam Lewis"
+}
+,
+
+{
 "category": "Spatialpandas, Spatial Filtering, Dask, Pandas",
 "title": "Spatial Filtering at Scale with Dask and Spatialpandas",
 "description": "Photo Credit: NASA Earth Observatory images by Joshua Stevens, using Suomi NP...",
