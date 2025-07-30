@@ -1,0 +1,35 @@
+<h1 id="building-polished-bespoke-solutions-fast-with-vibe-coding">Building Polished Bespoke Solutions Fast with Vibe Coding</h1>
+
+<p>Sometimes the best solutions come from the most personal problems. My wife, an amateur photographer, had a classic modern problem: duplicate photos scattered across multiple Google Takeout extractions from different email accounts. She needed help organizing thousands of photos and removing duplicates without losing precious memories or paying for unnecessary cloud storage.</p>
+
+<p>This is exactly the kind of problem where AI-assisted coding shines. With a newborn at home and precious little free time, I spent about two hours building a proper Python package that not only solved the immediate problem but created something maintainable and extensible. I could have probably written a quick and dirty script in similar time, but not with the amount of polish I had time for with vibe coding.</p>
+
+<p>This has unit tests, a README, allowing me to come back to this in the future if needed. I’d create things like this in the past, but after a certain amount of time had gone by without using it, it would be easier to start over than pick up on what I had done before.</p>
+
+<h2 id="what-it-does">What It Does</h2>
+
+<p>The <code class="language-plaintext highlighter-rouge">organize-photos</code> tool is relatively simple.  It tackles two main challenges:</p>
+
+<ol>
+  <li><strong>Smart Organization</strong>: Automatically sorts JPEG images into a clean <code class="language-plaintext highlighter-rouge">YYYY/MM/DD</code> folder structure using EXIF metadata</li>
+  <li><strong>Duplicate Detection</strong>: Uses SHA256 hashing to identify identical files and generates a CSV report for review before deletion</li>
+</ol>
+
+<p>The tool handles edge cases gracefully - logging errors without crashing, managing filename conflicts, and giving you control over whether to copy or move files. You can see the code here if you’d like - https://github.com/Adam-D-Lewis/organize-photos.</p>
+
+<h2 id="why-i-love-vibe-coding">Why I Love Vibe Coding</h2>
+
+<p>Vibe coding - that flow state where AI helps you rapidly prototype and refine solutions - allowed me to create something much better than a throwaway script, even with the time constraints of new parenthood. The key benefit isn’t speed (I could have hacked something together just as fast), but that this maximizes the value of those precious few hours of coding time. This approach gave me:</p>
+
+<ul>
+  <li><strong>Proper structure</strong>: A real Python package with <code class="language-plaintext highlighter-rouge">pyproject.toml</code>, proper imports, and CLI interface</li>
+  <li><strong>Quality foundations</strong>: Tests, error handling, and clean separation of concerns</li>
+  <li><strong>Future-proof</strong>: Dependencies properly captured, code that’s readable and extensible</li>
+  <li><strong>Confidence</strong>: I can modify this later without fear of breaking everything</li>
+</ul>
+
+<h2 id="the-result">The Result</h2>
+
+<p>Two hours of focused development produced a tool that’s both immediately useful and built to last. My wife got her photos organized and duplicates identified safely. More importantly, I have a solid foundation that I could expand on in the future - maybe adding support for other image formats, more sophisticated duplicate detection, or integration with cloud storage.</p>
+
+<p>The real win isn’t just solving today’s problem quickly - it’s building solutions that respect your future self.</p>
