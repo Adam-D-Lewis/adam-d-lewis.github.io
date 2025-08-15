@@ -1,0 +1,25 @@
+# LinkedIn Post: Building Polished Bespoke Solutions Fast with Vibe Coding
+
+**Ever built something "quick and dirty" that you couldn't use 6 months later?** 📸
+
+My wife needed help organizing thousands of duplicate photos across multiple Google accounts. With a newborn at home and limited coding time, I had maybe 2 hours to solve this.
+
+Instead of a throwaway script, I used "vibe coding" - that AI-assisted flow state - to build something better: a proper Python package with tests, documentation, and clean architecture.
+
+**The result?** A tool that:
+✅ Organizes photos into YYYY/MM/DD folders using EXIF data
+✅ Detects duplicates with SHA256 hashing 
+✅ Handles edge cases gracefully
+✅ Can be extended and maintained later
+
+**The real win isn't speed right now** - I could have hacked something together just as fast. It's maximizing the value of precious coding time by building solutions that respect your future self.
+
+This is one of my favorite things about vibe coding: my side projects are so much easier to reuse and extend later. No more abandoned scripts I'm afraid to touch. When time is limited, AI-assisted development helps you create quality foundations instead of technical debt. 
+
+What problems are you solving with AI coding assistance?
+
+#SoftwareDevelopment #AI #Python #Photography #TechDad
+
+---
+
+*[Link to the organize-photos tool: https://github.com/Adam-D-Lewis/organize-photos]*
